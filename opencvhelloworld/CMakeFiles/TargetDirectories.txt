@@ -1,0 +1,3 @@
+/home/hydroakri/opencvhelloworld/CMakeFiles/rebuild_cache.dir
+/home/hydroakri/opencvhelloworld/CMakeFiles/edit_cache.dir
+/home/hydroakri/opencvhelloworld/CMakeFiles/DisplayImage.dir

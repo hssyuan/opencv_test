@@ -1,0 +1,3 @@
+/home/hydroakri/sketch/CMakeFiles/rebuild_cache.dir
+/home/hydroakri/sketch/CMakeFiles/edit_cache.dir
+/home/hydroakri/sketch/CMakeFiles/DisplayImage.dir

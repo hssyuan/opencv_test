@@ -1,0 +1,3 @@
+/home/hydroakri/access_pixels/CMakeFiles/rebuild_cache.dir
+/home/hydroakri/access_pixels/CMakeFiles/edit_cache.dir
+/home/hydroakri/access_pixels/CMakeFiles/DisplayImage.dir
