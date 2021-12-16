@@ -1,0 +1,3 @@
+/home/hydroakri/opencv_test/pyramid/CMakeFiles/rebuild_cache.dir
+/home/hydroakri/opencv_test/pyramid/CMakeFiles/edit_cache.dir
+/home/hydroakri/opencv_test/pyramid/CMakeFiles/DisplayImage.dir
