@@ -1,0 +1,3 @@
+/home/hydroakri/opencv_test/shapedescriptors/CMakeFiles/rebuild_cache.dir
+/home/hydroakri/opencv_test/shapedescriptors/CMakeFiles/edit_cache.dir
+/home/hydroakri/opencv_test/shapedescriptors/CMakeFiles/DisplayImage.dir

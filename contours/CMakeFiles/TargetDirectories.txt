@@ -1,0 +1,3 @@
+/home/hydroakri/opencv_test/contours/CMakeFiles/rebuild_cache.dir
+/home/hydroakri/opencv_test/contours/CMakeFiles/edit_cache.dir
+/home/hydroakri/opencv_test/contours/CMakeFiles/DisplayImage.dir
